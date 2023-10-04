@@ -1,0 +1,13 @@
+Dism ->Diploma in information system 
+management
+
+1) version control system by Git ->
+maintain source code version
+2)Xml/json -> use for data exchange
+3)programming with JS ->Advanced logic 
+building 
+4)mysql ->RDBMS relational database
+managment system
+5)php ->open source server side scripting
+language
+6)laravel ->php framework
