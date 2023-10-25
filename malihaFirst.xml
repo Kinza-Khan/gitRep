@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="index1.xsd" type="http://www.w3.org/2001/XMLSchema"?>
+
+<aptech>
+    <faculty>
+        <facultyName>Zoya</facultyName>
+        <facultyAge>18</facultyAge>
+        <facultySalary>30000</facultySalary>
+        <faculty-Email>zoi@gmail.com</faculty-Email>
+        <facultyCity>lahore</facultyCity>
+    </faculty>
+
+    <faculty>
+        <facultyName>maliha</facultyName>
+        <facultyAge>25</facultyAge>
+        <facultySalary>50000</facultySalary>
+        <faculty-Email>malli@gmail.com</faculty-Email>
+        <facultyCity>islamabad</facultyCity>
+    </faculty>
+
+    <faculty>
+        <facultyName>maya</facultyName>
+        <facultyAge>25</facultyAge>
+        <facultySalary>75000</facultySalary>
+        <faculty-Email>maya@gmail.com</faculty-Email>
+        <facultyCity>karachi</facultyCity>
+    </faculty>
+
+    <it>
+        <empName></empName>
+        <empSalary></empSalary>
+         
+    </it>
+
+    <examination></examination>
+
+</aptech>

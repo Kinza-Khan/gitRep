@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="aptech">
+    <xs:complexType>
+    <xs:sequence>
+        <xs:element name="faculty">
+          <xs:complexType>
+          <xs:sequence>
+                 <xs:element name="faculty_name"> </xs:element>
+                 <xs:element name="faculty_name"> </xs:element>
+                 <xs:element name="faculty_name"> </xs:element>
+            </xs:sequence>
+            </xs:complexType>
+             </xs:element>
+
+
+            <xs:element name="it"> </xs:element>
+            <xs:element name="examination"> </xs:element>
+
+              
+              </xs:sequence>
+            </xs:complexType>
+
+      </xs:element>
+</xs:schema>
+             
